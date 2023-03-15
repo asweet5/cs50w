@@ -1,0 +1,30 @@
+specificty:
+1. inline
+2. id
+3. class
+4. type
+
+CSS selectors:
+a, b = multiple
+a b = descendant
+a > b = child
+a + b = adjacent sibling
+[a=b] = attribute
+a:b = pseudoclass
+a::b = pseudoelement
+
+responsive design:
+ensuring web pages look good on all devices
+viewport = visual part of screen that displays content to user, add code to control viewport
+media queries = media types and media features
+flexbox 
+grids
+
+bootstrap:
+CSS library 
+allows you to use pre-designed CSS
+
+Sass:
+allows variable in CSS
+cleaner to write
+but needs to be compiled
